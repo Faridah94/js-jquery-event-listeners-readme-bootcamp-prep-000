@@ -28,7 +28,13 @@ function submitIt() {
 $(document).ready(function(){
 
 // call functions here
-  getIt();
+ 
+});//define functions here
+
+$(document).ready(function(){
+
+// call functions here
+ getIt();
 
   frameIt();
 
@@ -37,10 +43,5 @@ $(document).ready(function(){
   submitIt();
 
 
-});//define functions here
-
-$(document).ready(function(){
-
-// call functions here
 
 });
